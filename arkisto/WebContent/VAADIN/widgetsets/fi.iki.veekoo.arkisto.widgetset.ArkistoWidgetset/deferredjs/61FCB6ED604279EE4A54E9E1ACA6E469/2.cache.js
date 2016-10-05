@@ -1,0 +1,1 @@
+$wnd.fi_iki_veekoo_arkisto_widgetset_ArkistoWidgetset.runAsyncCallback2('M8(1579,1,VUd);_.vc=function eac(){TWb((!MWb&&(MWb=new YWb),MWb),this.a.d)};SOd(Th)(2);\n//# sourceURL=fi.iki.veekoo.arkisto.widgetset.ArkistoWidgetset-2.js\n')
